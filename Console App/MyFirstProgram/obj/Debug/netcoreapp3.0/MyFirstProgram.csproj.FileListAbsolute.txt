@@ -1,0 +1,11 @@
+C:\Users\ttnny\Google Drive\_WORKSPACE\learning\dotnet\Console App\MyFirstProgram\bin\Debug\netcoreapp3.0\MyFirstProgram.exe
+C:\Users\ttnny\Google Drive\_WORKSPACE\learning\dotnet\Console App\MyFirstProgram\bin\Debug\netcoreapp3.0\MyFirstProgram.deps.json
+C:\Users\ttnny\Google Drive\_WORKSPACE\learning\dotnet\Console App\MyFirstProgram\bin\Debug\netcoreapp3.0\MyFirstProgram.runtimeconfig.json
+C:\Users\ttnny\Google Drive\_WORKSPACE\learning\dotnet\Console App\MyFirstProgram\bin\Debug\netcoreapp3.0\MyFirstProgram.runtimeconfig.dev.json
+C:\Users\ttnny\Google Drive\_WORKSPACE\learning\dotnet\Console App\MyFirstProgram\bin\Debug\netcoreapp3.0\MyFirstProgram.dll
+C:\Users\ttnny\Google Drive\_WORKSPACE\learning\dotnet\Console App\MyFirstProgram\bin\Debug\netcoreapp3.0\MyFirstProgram.pdb
+C:\Users\ttnny\Google Drive\_WORKSPACE\learning\dotnet\Console App\MyFirstProgram\obj\Debug\netcoreapp3.0\MyFirstProgram.csprojAssemblyReference.cache
+C:\Users\ttnny\Google Drive\_WORKSPACE\learning\dotnet\Console App\MyFirstProgram\obj\Debug\netcoreapp3.0\MyFirstProgram.AssemblyInfoInputs.cache
+C:\Users\ttnny\Google Drive\_WORKSPACE\learning\dotnet\Console App\MyFirstProgram\obj\Debug\netcoreapp3.0\MyFirstProgram.AssemblyInfo.cs
+C:\Users\ttnny\Google Drive\_WORKSPACE\learning\dotnet\Console App\MyFirstProgram\obj\Debug\netcoreapp3.0\MyFirstProgram.dll
+C:\Users\ttnny\Google Drive\_WORKSPACE\learning\dotnet\Console App\MyFirstProgram\obj\Debug\netcoreapp3.0\MyFirstProgram.pdb
